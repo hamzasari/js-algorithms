@@ -1,0 +1,14 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hamza SARI <hamza.sari@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
